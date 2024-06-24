@@ -29,7 +29,7 @@ long_description = "test project "
 
 
 setuptools.setup(
-    name="python-generic-func-library",
+    name="python-generic-functon-library",
     version="1.0.0",
     author="ABC Team",
     author_email = "sekher.talupula@gmail.com,sekhar.jagadeesh9@gmail.com",
