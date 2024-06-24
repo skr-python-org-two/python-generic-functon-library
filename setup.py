@@ -23,6 +23,7 @@ DEV_REQUIREMENTS = [
 
 
 
+
 current_dir = pathlib.Path(__file__).parent.resolve()
 #long_description = (current_dir / 'README.md').read_txt(encoding="utf-8")
 long_description = "test project "
