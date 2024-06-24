@@ -17,7 +17,6 @@ PACKAGE_REQUIREMENTS = [
 DEV_REQUIREMENTS = [
     "pytest == 7.1.3",
     "pandas == 1.5.0",
-    "numpy == 1.23.1",
     "pytest-cov == 3.0.0"
 ]
 
